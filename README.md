@@ -8,11 +8,11 @@
 📖 **Um pouco sobre mim** <br/>
 Amante de tecnologia, games e animações, o que facilita nosso dia a dia e nos traz aprendizado através disso me fascina. Me aperfeiçoando a cada oportunidade na área de desenvolvimento para poder atuar com front-end ou back-end.!
 
-📱 **Mande uma mensagem**<br/>
-+55(11) 95429-9053
-
 👨‍💻 **Atualmente estou estudando**<br/>
 Angular, NodeJs e Spring
+
+📱 **Mande uma mensagem**<br/>
++55(11) 95429-9053
 
 📫 **Mande um e-mail**<br/>
 mathbello@gmail.com  
