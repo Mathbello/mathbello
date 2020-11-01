@@ -1,9 +1,9 @@
-<h1 align="center">Olá 👋, sou o Matheus</h1>
-<h3 align="center">Desenvolvedor Web FullStack Java</h3>
+<h1 align="left">Olá 👋, sou o Matheus</h1>
+<h3 align="left">Desenvolvedor Web FullStack Java</h3>
 
 
 
-- 📖 **Um pouco sobre mim** Amante de tecnologia, games e animações, o que facilita nosso dia a dia e nos traz aprendizado através disso me fascina. Me aperfeiçoando a cada oportunidade na área de desenvolvimento para poder atuar com front-end ou back-end.[Coding](https://i.imgur.com/oRLG5UP.gif)
+- 📖 **Um pouco sobre mim** Amante de tecnologia, games e animações, o que facilita nosso dia a dia e nos traz aprendizado através disso me fascina. Me aperfeiçoando a cada oportunidade na área de desenvolvimento para poder atuar com front-end ou back-end.![Coding](https://i.imgur.com/oRLG5UP.gif)
 
 - 📱 Mande uma mensagem [+55(11) 95429-9053](+55(11) 95429-9053)
 
